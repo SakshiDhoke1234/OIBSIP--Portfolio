@@ -1,0 +1,49 @@
+body {
+    background-image: url(port20.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+nav {
+    margin-left: 900px;
+}
+
+nav li {
+    display: inline-block;
+    padding: 0px 30px 0px 30px;
+}
+
+nav li a {
+    color: black;
+    text-decoration: none;
+}
+
+.info {
+    text-align: center;
+    margin-top: 100px;
+}
+
+nav li a:hover {
+    text-decoration: underline;
+}
+
+#resume {
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 47%;
+
+}
+
+#resume:hover {
+    background-color: burlywood
+}
+
+img {
+    margin-top: 10px;
+    margin-left: 25%;
+    width: 50%;
+    height: 250px;
+}
